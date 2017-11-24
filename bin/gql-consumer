@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'gql_consumer/cli'
+
+GQLConsumer::CLI.start
